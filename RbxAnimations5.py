@@ -1,5 +1,5 @@
 ###
-# Rbx Animations Pro
+# Rbx Animations 5
 # Professional Roblox Animation Pipeline for Blender
 #
 # Original Addon:
